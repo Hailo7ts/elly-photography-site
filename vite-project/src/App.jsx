@@ -3,7 +3,7 @@ import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import Nav from '../src/Partials/Nav'
-import Home from '../src/Components/Home'
+import Photography from '../src/Components/Photography'
 
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <Nav />
-      <Home />
+      <Photography />
     </>
   )
 }

@@ -3,7 +3,7 @@ import { useState } from 'react'
 function Nav() {
   return (
     <>
-    <div className="max-lg:collapse lg:mb-48  w-full rounded-md ">
+    <div className="max-lg:collapse lg:mb-24 lg:mt-24  w-full rounded-md ">
   
         <div className="collapse-title flex justify-around">
             
